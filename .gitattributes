@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+onedrive.conf  filter=crypt diff=crypt
